@@ -62,5 +62,7 @@ The goal is to automatically detect whether an SMS message is **spam (1)** or **
 
 ---
 
+by - Amirtha ganesh R
+
 
 
